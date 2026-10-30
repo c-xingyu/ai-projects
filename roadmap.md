@@ -50,7 +50,7 @@
 
 | 任务 | DDL | 产出文件 | 验收标准 |
 |:---|:---|:---|:---|
-| Day 7：数据集划分 | 2026-11-05 | `day07_split.py` |-[] 用 train_test_split 划分训练/测试集，打印各自形状 |
+| Day 7：数据集划分 | 2026-11-05 | `day07_split.py` |-[ ] 用 train_test_split 划分训练/测试集，打印各自形状 |
 | Day 8：决策树模型 | 2026-11-07 | `day08_tree.py` | 训练 DecisionTreeClassifier，预测测试集，打印准确率 |
 | Day 9：模型评估 | 2026-11-09 | `day09_evaluate.py` | 输出混淆矩阵、精确率、召回率 |
 | Day 10：模型对比 | 2026-11-12 | `day10_compare.py` | 同一数据集跑决策树/KNN/逻辑回归，对比准确率表格 |
